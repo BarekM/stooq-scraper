@@ -1,0 +1,4 @@
+openpyxl
+requests
+bs4
+html
